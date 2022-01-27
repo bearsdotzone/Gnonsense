@@ -84,3 +84,6 @@ Runecrafting - Seemingly impossible. Can get essence but there are no altars.
 === MAYBE ===
 Slayer - Nieve at 85 CB, research how to guarantee types of monster.
 Fishing - Not viable as UIM. Small net, harpoon, and fly fishing rod are all possible given a source of feathers is found. That being said, holding those items in your inventory the whole time with no way to regain them seems insufficient.
+
+
+Harralander for Energy Potion at 26
