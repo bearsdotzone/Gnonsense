@@ -76,7 +76,7 @@ Fletching - Flax at least, knife, wood. No feathers.
 Herblore - Frog legs to make agility potion, randoms? Toadflax unf. Vials? Toadflax from tips. Harralander and chocolate dust even before that.
 Prayer - Bones - Pots to restore from herblore - Altar on Ape Atoll
 Magic - Mob drops lots of different types of runes.
-Thieving - **LAMP** to 5 to steal from monkeys.
+Thieving - Lockpick to 5 to steal from monkeys.
 
 === NO ===
 Runecrafting - Seemingly impossible. Can get essence but there are no altars.
