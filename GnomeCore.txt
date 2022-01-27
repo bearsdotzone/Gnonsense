@@ -1,0 +1,86 @@
+=== GOALS ===
+All restaurant uniques
+ - 120 easies to unlock specific task.
+ - Some trips outside
+
+Quests
+ - Tree Gnome Village
+   - 6 Logs
+   - Combat against 112 warlord, flinchable.
+   * 2 QP
+ - Grand Tree
+   - 25 Agility
+   - 172 black demon, safespottable.
+   * 5 QP
+   * Mine
+ - Monkey Madness I
+   - Grand Tree / Tree Gnome Village
+   - 195 Jungle Demon
+   - Gold Bar
+   - Inv Slot
+   - Ball of wool
+   * 3 QP
+ - Eyes of Glouphrie
+   - Grand Tree
+   - 5 Construction
+   - 46 Magic
+   - Knife bucket
+   - Mud runes
+   - Maple logs
+   - Oak logs
+   - Hammer
+   - Saw
+   - Mortar and Pestle
+   * 2 QP
+   * Crystal saw
+ - Monkey Madness II
+   - Enlightened Journey
+   - Glouphrie
+   - RFD Awowogei
+     - Cook's Assistant
+   - Troll Stronghold
+     - Death Plateau
+   - Watchtower
+   - 69 Slayer
+   - 70 Crafting
+   - 60 Hunter
+   - 55 Agility
+   - 55 Thieving
+   - 60 Firemaking
+   - Lemon
+   - Grapes
+   - Pestle and Mortar
+   - Pickaxe
+   - Logs
+   - Light Source
+   - monkey stuff
+   - Translation boook
+
+=== YES ===
+Combat - Easy access to equipment, monsters.
+Ranged - Easy access to equipment, monsters. Gnomeball.
+Agility - Course. Gnomeball. Monkey.
+Smithing - Superheat item. Hammer at tree gnome village store. No anvil? Sacred fire in downstairs of temple
+Mining - Bronze pickaxe in tree gnome village store. Grand Tree Mine - Iron through addy, silver, clay, coal.
+Crafting - Flax at least, starts at 10. Uncut opals - Cut > Chisel at village. Opals from gnome restaurant minigame.
+Hunter - **Lamp** > Implings. Tree Gnome Stronghold wheat field > Puro Puro.
+Farming - Patches for tree and fruit tree.
+Rake to 15. Oaks from 15. Fruit from 27. Tree seeds from birds nests from tips.
+Prissy Scilla has - Plant Cure - Compost - Rake - Empty Plant Pot - Watering Can - Gardening Trowel - Seed dibber
+Spade from tool store 2. Oak planks from eclectic impling. 
+Construction - Hammer and Crystal saw. Planks and nails from puro-puro. Regular saw? Planks on ape atoll as well.
+Woodcutting - Yes, easy steel axe. Yew and magic.
+Firemaking - Yes, tree gnome village has store tinderbox.
+Cooking - Easy
+Fletching - Flax at least, knife, wood. No feathers.
+Herblore - Frog legs to make agility potion, randoms? Toadflax unf. Vials? Toadflax from tips. Harralander and chocolate dust even before that.
+Prayer - Bones - Pots to restore from herblore - Altar on Ape Atoll
+Magic - Mob drops lots of different types of runes.
+Thieving - **LAMP** to 5 to steal from monkeys.
+
+=== NO ===
+Runecrafting - Seemingly impossible. Can get essence but there are no altars.
+
+=== MAYBE ===
+Slayer - Nieve at 85 CB, research how to guarantee types of monster.
+Fishing - Not viable as UIM. Small net, harpoon, and fly fishing rod are all possible given a source of feathers is found. That being said, holding those items in your inventory the whole time with no way to regain them seems insufficient.
